@@ -1,5 +1,3 @@
-An experiment with two faces datasets.
-
 Image interpolation using embedding projections
 ![image](https://user-images.githubusercontent.com/85485132/145687749-e049a772-c7d5-40b3-aa29-5c38ad6b2171.png)
 
